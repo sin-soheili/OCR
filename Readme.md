@@ -56,7 +56,6 @@ Contributions to the OCR project are welcome! If you would like to contribute, p
 
 For any questions or collaboration opportunities, please feel free to reach out to me at sin.soheili@hotmail.com.
 
----
 
 © 2023 [sin-soheili](https://github.com/sin-soheili). This project is licensed under the [MIT License](https://github.com/sin-soheili/OCR/blob/master/LICENSE).
 ```
