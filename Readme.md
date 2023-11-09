@@ -10,19 +10,19 @@ OCR is an API for extracting text from images. Users can upload their images to 
 
    ```bash
    git clone https://github.com/sin-soheili/OCR.git
-   ```
+   
 
 2. Install the required dependencies:
 
    ````bash
    pip install -r requirements.txt
-   ```
+   
 
 3. Run the application:
 
    ````bash
    python main.py
-   ```
+   
 
 4. Access the API at `http://localhost:8000/ocr`.
 
@@ -36,19 +36,19 @@ Contributions to the OCR project are welcome! If you would like to contribute, p
 
    ````bash
    git checkout -b feature/your-feature-name
-   ```
+   
 
 3. Make your changes and commit them.
 
    ````bash
    git commit -m "Add your commit message"
-   ```
+   
 
 4. Push your branch to GitHub.
 
    ````bash
    git push origin feature/your-feature-name
-   ```
+   
 
 5. Open a pull request and describe your changes.
 
