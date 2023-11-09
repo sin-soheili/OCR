@@ -58,4 +58,3 @@ For any questions or collaboration opportunities, please feel free to reach out 
 
 
 © 2023 [sin-soheili](https://github.com/sin-soheili). This project is licensed under the [MIT License](https://github.com/sin-soheili/OCR/blob/master/LICENSE).
-```
