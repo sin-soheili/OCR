@@ -1,8 +1,5 @@
-
-```
 # OCR (Optical Character Recognition)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sin-soheili/OCR/blob/master/LICENSE)
 [![Stars](https://img.shields.io/github/stars/sin-soheili/OCR.svg)](https://github.com/sin-soheili/OCR/stargazers)
 
 OCR is an API for extracting text from images. Users can upload their images to `/ocr` endpoint and receive the extracted text. The project is developed in Python using the FastAPI framework. It utilizes the pytesseract library for text extraction.
